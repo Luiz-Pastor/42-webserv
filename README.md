@@ -16,7 +16,7 @@ To see a list of all the possible configurations supported by the project, check
 ![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=C%2B%2B&color=purple)
 ![Makefile](https://img.shields.io/badge/Makefile-a?style=for-the-badge&logo=monster&logoColor=orange&color=ffc56f)
 
-You can see the subject [**HERE.**](https://github.com/MGuardia10/42cursus/blob/main/subjects/en/webserver_subject_en.pdf)
+You can see the subject in the intra page
 
 ## Installing and running the project:
 
