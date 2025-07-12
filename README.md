@@ -22,10 +22,10 @@ You can see the subject in the intra page
 
 1- Clone this repository
 	
-	git clone https://github.com/Luiz-Pastor/webserv.git
+	git clone https://github.com/Luiz-Pastor/42-webserv.git
 2- Navigate to the new directory and run `make`
 	
-	cd webserv
+	cd 42-webserv
    	make
 3- Start the server, a config file is needed as an argument:
 
